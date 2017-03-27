@@ -1,0 +1,12 @@
+* Prerrequisitos
+
+** JDK 1.8
+** Instalación de *SBT*
+ He utilizado https://github.com/paulp/sbt-extras, similar a /gradle wrapper/
+
+* Creación del proyecto
+#+begin_src sh
+./sbtw sbt new playframework/play-scala-seed.g8
+#+end_src
+
+Me lo ha creado en un directorio nuevo
